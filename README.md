@@ -5,7 +5,7 @@ In my freetime, I always find something new to learn, to improve my skills.
 
 Here are some ideas to get you known about me:
 - 🔭 I’m a girl with lots of enthusiasm in Human Resources
-- 🌱 I’m currently looking you for awesome job. Can you hear me ?
+- 🌱 I’m currently looking you for our awesome job.
 - 📫 How to reach me: 
 https://www.linkedin.com/in/dung-thao/
 
