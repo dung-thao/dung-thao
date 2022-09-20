@@ -6,8 +6,11 @@ In my freetime, I always find something new to learn, to improve my skills.
 Here are some ideas to get you known about me:
 - 🔭 I’m a girl with lots of enthusiasm in Human Resources
 - 🌱 I’m currently looking you for our awesome job.
-- 📫 How to reach me: 
-https://www.linkedin.com/in/dung-thao/
+- 📫 Reach me at: **thaodungvt.td@gmail.com**
+
+<h4 align="left">Other Contact Information :pushpin:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/dung-thao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vynguyenlethao0510" height="30" width="40" /></a>
 
 Nice to meet you!
 <!--
