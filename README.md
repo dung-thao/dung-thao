@@ -9,7 +9,7 @@ Here are some ideas to get you known about me:
 
 <h4 align="left">Other Contact Information :pushpin:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/dung-thao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vynguyenlethao0510" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dung-thao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dungthao" height="30" width="40" /></a>
 
 Nice to meet you!
 <!--
